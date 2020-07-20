@@ -18,7 +18,7 @@ Datasets provided as course materials under programming assignments section.
 
 Check out the solution reports and code of the certain assignment-
 
-*  Programming Exercise 1: [Linear Regression](#)
+*  Programming Exercise 1: [Linear Regression](https://github.com/anwarcsebd/machine-learning-coursera/blob/master/machine-learning-ex1/exercise1.ipynb)
 *  Programming Exercise 2: [Updating..](#)
 *  Programming Exercise 3: [Updating..](#)
 *  Programming Exercise 4: [Updating..](#)
