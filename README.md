@@ -23,7 +23,7 @@ Check out the solution reports and code of the certain assignment-
 *  Programming Exercise 3: [Multi-class Classification and Neural Networks](https://github.com/anwarcsebd/machine-learning-coursera/blob/master/machine-learning-ex3/exercise3.ipynb)
 *  Programming Exercise 4: [Neural Network Learning](https://github.com/anwarcsebd/machine-learning-coursera/blob/master/machine-learning-ex4/exercise4.ipynb)
 *  Programming Exercise 5: [Regularized Linear Regression and Bias vs Variance](https://github.com/anwarcsebd/machine-learning-coursera/blob/master/machine-learning-ex5/exercise5.ipynb)
-*  Programming Exercise 6: [Updating..](#)
+*  Programming Exercise 6: [Support Vector Machines](https://github.com/anwarcsebd/machine-learning-coursera/blob/master/machine-learning-ex6/exercise6.ipynb)
 *  Programming Exercise 7: [Updating..](#)
 *  Programming Exercise 8: [Updating..](#)
 
